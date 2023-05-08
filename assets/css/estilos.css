@@ -10,6 +10,14 @@ body {
   background-size: cover;
   background-position: left;
 }
+#Hero-Section p{
+  color: white; 
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+#Hero-Section h1{
+  color: white; 
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
 
 /* Mis trabajos */
 
